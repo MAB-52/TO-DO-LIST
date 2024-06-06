@@ -33,9 +33,8 @@ Delete a To-Do: Click the "Delete" button next to the task you want to remove.
 
 Built With -
 
-HTML5
-CSS3
-JavaScript
-Bootstrap
+HTML5,
+JavaScript,
+CSS Framework - Bootstrap
 
 Project Link: https://github.com/MAB-52/TO-DO-LIST
